@@ -1,7 +1,7 @@
 *Biased Random Walk Simulator*
 ================================
 
-This was a project that I started in my second year as a university student while learning the Python programming language. It is essential a random walk simulator based off of a standard Wiener process using finite difference methods.
+This was a project that I started in my second year as a university student while learning the Python programming language. It is essentially a random walk simulator based off of a standard Wiener process using finite difference methods.
 
 Info
 ================================
